@@ -1,5 +1,9 @@
 # Transform Photos to Monet Paintings with CycleGANs
 
+<p align="center">
+  <img src="https://i.pinimg.com/564x/2c/88/ea/2c88ea5591e8aa0a3f98ca1d612b506e.jpg">
+</p>
+
 Author: Roxanne Li
 
 Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of Build a Chatbot to Analyze PDF Document Using LLM from CognitiveClass.ai
